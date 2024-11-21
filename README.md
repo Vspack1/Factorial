@@ -1,0 +1,2 @@
+# Factorial
+A Factorial Code 
